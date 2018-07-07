@@ -92,8 +92,3 @@ class Triangle
 
 end
 
-#
-#
-# t = Triangle.new(2,2,3)
-# puts t.valid?
-# puts t.kind
